@@ -58,7 +58,7 @@ Vem do cabeçalho `stdio` , que é a abreviação de "standar I/O" (input/output
 
 Digite o código acima em um editor de texto qualquer e depois compile/rode.
 
-Você deve saber como [compilar](/c/como-compilar-no-linux/) o código no terminal.
+Você deve saber como [compilar](../como-compilar-no-linux/) o código no terminal.
 
 
 
@@ -120,7 +120,7 @@ O tipo `char` comporta apenas caracteres.
 
 O tipo `int` comporta os números inteiros.
 
-Os tipos `float` e `double` comportam números reais, só que o `double` é de maior precisão. Também chamamos de 
+Os tipos `float` e `double` comportam números reais, só que o `double` é de maior precisão. Também chamamos de
 "ponto flutuante" e "ponto flutuante de dupla precisão", respectivamente.
 
 Cada tipo de dados possui uma extensão (range) diferente e ocupa um determinado espaço na memória. Inicialmente, isso não
@@ -189,7 +189,7 @@ A precedência de operadores é como se segue:
 * `*` `/` `%` (esquerda para a direita)
 * `+` `-` (esquerda para a direita)
 
-Mas com a ajuda do parênteses `()` podemos alterar a precedência. 
+Mas com a ajuda do parênteses `()` podemos alterar a precedência.
 
 
 
@@ -310,7 +310,7 @@ A função depende dos operadores de formatação listados abaixo.
     </tr>
 </table>
 
-Ela (a função) aceita n parâmetros, sendo que o primeiro é sua string (cadeia de caracteres) e os demais dependerão da 
+Ela (a função) aceita n parâmetros, sendo que o primeiro é sua string (cadeia de caracteres) e os demais dependerão da
 quantidade de varíaveis utilizadas "dentro" string. Veja a figura abaixo para entender melhor.
 
 ![Figura ilustrando a função printf](printf.png "printf")
@@ -362,4 +362,4 @@ Ao utilizar a função `scanf()`, repare que a acrescentamos o operador unário 
 Leia agora
 ---
 
-- [Como compilar códigos em C/C++ no Linux](/c/como-compilar-no-linux/)
+- [Como compilar códigos em C/C++ no Linux](../como-compilar-no-linux/)
